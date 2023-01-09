@@ -2,7 +2,7 @@
 
 ### Introduction
 On this repo we will learn how to create REST API using Springboot, 
-that apis will have CRUD function for connecting and storing data to Mongo database. 
+that apis will have CRUD function for connecting and storing data to Redis database. 
 
 If you want read the full articles all about this repo, 
 you can see on this [link](https://medium.com/@deni-setiawan/create-rest-api-using-springboot-and-redis-3e52e2fa7e16 )
@@ -12,13 +12,12 @@ you can see on this [link](https://medium.com/@deni-setiawan/create-rest-api-usi
 - Java 8+
 - IDE Intelij
 - Docker
-- MonngoDB (Docker Container)
-- MonngoExpress (Docker Container)
+- Redis (Docker Container)
 - Postman 
 
 ### Dependency
 - Lombok
-- MongoDB Driver
+- Redis Driver
 - Spring Data JPA
 - Spring Web
 
@@ -27,9 +26,6 @@ you can see on this [link](https://medium.com/@deni-setiawan/create-rest-api-usi
 
 ### Docker Compose file
 - project/document/server/docker-compose.yml
-
-### Initial Database
-- project/document/server/initial_database_mongo
 
 ### Notes
 - project/document/server/notes.md
