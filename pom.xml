@@ -11,8 +11,8 @@
     <groupId>com.deni</groupId>
     <artifactId>app</artifactId>
     <version>0.1</version>
-    <name>restapi-springboot-mongodb</name>
-    <description>Springboot with MongoDB</description>
+    <name>restapi-springboot-redis</name>
+    <description>Springboot with redis</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
