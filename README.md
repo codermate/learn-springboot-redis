@@ -5,7 +5,7 @@ On this repo we will learn how to create REST API using Springboot,
 that apis will have CRUD function for connecting and storing data to Redis database. 
 
 If you want read the full articles all about this repo, 
-you can see on this article [https://deni-setiawan.medium.com/](https://medium.com/@deni-setiawan/create-rest-api-using-springboot-and-redis-3e52e2fa7e16 )
+you can see on this article [https://medium.com/@deni-setiawan/create-rest-api-using-springboot-and-redis-3e52e2fa7e16](https://medium.com/@deni-setiawan/create-rest-api-using-springboot-and-redis-3e52e2fa7e16 )
 
 ### Requirements
 - Maven 3+
